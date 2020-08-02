@@ -1,4 +1,4 @@
 # DiceWebApp
-Simple Dice Web Application
-Uses Refresh to roll dice
-Implements basic JS math functions in combination with simple HTML and CSS elements.
+Simple Dice Web Application 
+-Uses Refresh to roll dice
+-Implements basic JS math functions and simple HTML/CSS elements.
